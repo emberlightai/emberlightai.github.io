@@ -13,6 +13,7 @@ export default function Footer() {
           </div>
           <nav className="flex flex-wrap justify-center gap-8 mb-8">
             <Link to="/" className="text-gray-600 hover:text-blue-600 transition-colors">About</Link>
+            <Link to="/team" className="text-gray-600 hover:text-blue-600 transition-colors">Team</Link>
             <Link to="/" className="text-gray-600 hover:text-blue-600 transition-colors">Contact</Link>
             <Link to="/" className="text-gray-600 hover:text-blue-600 transition-colors">Blog</Link>
             <Link to="/privacy" className="text-gray-600 hover:text-blue-600 transition-colors">Privacy Policy</Link>
