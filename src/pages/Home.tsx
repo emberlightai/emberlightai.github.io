@@ -30,20 +30,20 @@ export default function Home() {
             <Heart className="w-16 h-16 text-pink-600" />
           </div>
           <h1 className="text-6xl font-bold text-gray-900 mb-6">
-            emberlight
+            Emberlight AI
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto mb-4">
-            Reimagining romance with smart technology. We use advanced algorithms to help you find your perfect match, sparking connections that last a lifetime.
+            Emberlight AI is building a social travel platform that connects users based on shared travel history.
           </p>
           <p className="text-lg text-gray-500 max-w-2xl mx-auto mb-8">
-            Experience the next evolution of dating. Smart, intuitive, and deeply personal.
+            Amber is a product by Emberlight AI.
           </p>
-          <Link
+          {/* <Link
             to="/team"
             className="inline-block bg-pink-600 text-white px-8 py-3 rounded-full text-lg font-semibold hover:bg-pink-700 transition-colors"
           >
             Meet the Creators
-          </Link>
+          </Link> */}
         </div>
       </div>
 
